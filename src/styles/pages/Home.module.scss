@@ -1,0 +1,9 @@
+@use 'src/styles/vars.scss' as vars;
+
+.page {
+  display: grid;
+  height: 100vh;
+  justify-items: center;
+  position: fixed;
+  width: 100vw;
+}
