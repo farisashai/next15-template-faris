@@ -1,6 +1,7 @@
 @use 'src/styles/vars.scss' as vars;
 
 .page {
+  background-color: vars.$white;
   display: grid;
   height: 100vh;
   justify-items: center;
