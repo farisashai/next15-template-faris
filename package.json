@@ -1,5 +1,5 @@
 {
-  "name": "calendar-app",
+  "name": "nextjs15-template",
   "version": "0.1.0",
   "private": true,
   "scripts": {
@@ -24,7 +24,7 @@
     "@eslint/compat": "^1.2.6",
     "@eslint/eslintrc": "^3.2.0",
     "@eslint/js": "^9.19.0",
-    "@types/node": "^20",
+    "@types/node": "^22",
     "@types/react": "^19",
     "@types/react-dom": "^19",
     "eslint": "^9",
